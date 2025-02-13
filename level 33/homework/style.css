@@ -1,0 +1,12 @@
+h1, p {
+    color: red;
+    text-align: center;
+}
+
+
+button {
+    background-color: green;
+    color: black;
+    font-size: larger;
+    text-align: center;
+}
