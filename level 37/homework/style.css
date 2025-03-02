@@ -1,0 +1,15 @@
+h1 {
+    color: blueviolet;
+}
+
+button {
+    background-color: 255 255 0;
+}
+
+#buttonincss {
+    border: color(254 212 100);
+}
+
+p {
+    text-align: center; text-shadow: blue 5px 2px;
+}
