@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+
+h1 {
+    font-family: 'Emblema One', sans-serif;
+    -webkit-text-stroke: 3px black;
+    color: tomato;
+}
+
+p {
+    font-weight: 500;
+    font-size: large;
+    font-aligin: left;
+}

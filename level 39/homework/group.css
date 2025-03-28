@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
+
+@font-face {
+    font-family: 'geofont';
+    src: url(./bpg_nino_mtavruli_bold.ttf);
+}
+
+h1 {
+    color : rgb(18, 8, 98);
+    text-align: center;
+    font-size: 50px;
+    font-family: tektur, geofont;
+}
+
+h2 {
+    color : rgb(21, 8, 96);
+    text-align: center;
+    font-size: 50px;
+    font-family: tektur, geofont;
+}
+
+p {
+    font-weight : 700;
+}
+
+h3 {
+    color : rgb(49, 13, 96);
+    font-weight: 700;
+    font-size: 50px;
+    font-family: tektur, geofont;
+}
+
+p {
+    font-weight : 700;
+    font-size: larger;
+}
+
+
+header {
+    height: 100px;
+    width: 97%;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    border: color #264a69;
+}
+
+
+header {
+    background-color: #2d5b82;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    border: color #264a69;
+    width: 100%;
+}
+
+
+footer {
+    background-color: #2d5b82;
+    padding: 20px;
+    width: 100%;
+}
+
+
+main {
+    background-color: #2d5b82;
+    padding: 20px;
+    width: 100%;
+}
+
+#title {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 50px;
+    font-family: tektur;
+}
+
+#translator {
+    font-size: 70px;
+    font-family: tektur, geofont;
+    color : rgb(49, 13, 96);
+    text-align: center;
+    transition: 0.6s;
+    
+}
+
+translator:hover {
+    color: rgb(88, 41, 150);
+}
+
+#info {
+    font-family: tektur, geofont;
+}
