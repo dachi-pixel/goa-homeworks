@@ -1,0 +1,21 @@
+#div1 {
+    width: 150px;
+    height: 200px;
+    border: solid 3px black;
+}
+
+#div1:active {
+    position: fixed;
+    left: 50px;
+}
+
+#div2 {
+    width: 150px;
+    height: 200px;
+    border: solid 3px black;
+}
+
+#div2:active {
+    position: fixed;
+    scale: 2; scale: -1.5;
+}

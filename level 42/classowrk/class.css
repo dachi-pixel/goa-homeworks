@@ -1,0 +1,24 @@
+div {
+    border: solid 3px black;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    right: 700px;
+    bottom: 325px;
+}
+
+div:hover {
+    background-color: brown;
+    border: solid 3px black;
+    text-shadow: 2px 2px red;
+}
+
+body {
+    background-image: url(https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 50px 50px;
+    background-position: fixed;
+    right: 700px;
+    bottom: 325px;
+}

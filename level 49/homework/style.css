@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+#just-button {
+    background-color: #4CAF50; /* Green */
+    border: solid 2px darkgreen;
+    color: black;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0,3s;
+}
+
+#just-button:hover {
+    background-color: rgb(1, 73, 1);
+    width: 50px;
+    height: 25px;
+}

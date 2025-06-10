@@ -1,0 +1,18 @@
+#logo {
+    width: 170px;
+    height: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    text-align: right;
+    margin: 30px;
+    padding: 20px;
+}
+
+
+#photo {
+    width: 200px;
+    height: 200px;
+}

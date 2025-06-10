@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.DjJIaBIC_PkRzVDAydQsCgHaE8&pid=Api&P=0&h=220);
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+
+#div1 {
+    width: 200px;
+    height: 200px;
+    border: solid 3px black;
+    position: fixed;
+    top: 10px;
+}
+
+#img1 {
+    width: 100px;
+    height: 100px;
+    border: solid 3px black;
+    position: sticky;
+}
+
+#div2 {
+    width: 200px;
+    height: 200px;
+    border: solid 3px black;
+    position: fixed;
+    right: 700px;
+}
+
+#img2 {
+    width: 100px;
+    height: 100px;
+    border: solid 3px black;
+    position: fixed;
+    right: 750px;
+    bottom: 350px;
+}
