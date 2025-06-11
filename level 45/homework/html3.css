@@ -1,0 +1,12 @@
+div {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    animation: 2s infinite animation;
+}
+
+@keyframes animation {
+    100% {
+        rotate: 360deg;
+    }
+}
